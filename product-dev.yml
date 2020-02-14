@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  datesource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: xuchao
+    url: jdbc:mysql://127.0.0.1:3306/SpringCloud_Sell?characterEncoding=utf-8&useSSL=false
